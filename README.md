@@ -1,6 +1,6 @@
-# Awesome GenAI Fails
+# Awesome GenAI Fails [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-There is a lot of hype surrounding generative AI, LLMs, and AI agents. Many people are unaware that generative AI is unreliable due to its nondeterministic nature. Some even have the impression that LLMs are capable of “thinking” or understanding language. Several companies and organizations are pushing for increased reliance on LLMs and AI agents in the belief that it will increase productivity and reduce costs.
+There is a lot of hype surrounding generative AI, LLMs, and AI agents. Many people are unaware that generative AI is unreliable due to its nondeterministic nature. Some even have the impression that LLMs are capable of “thinking” or understanding language. Several companies and organizations are pushing for increased reliance on LLMs and AI agents in the belief that it will increase productivity and profits.
 
 This is a list of major incidents caused by reliance on generative AI, which are often buried amidst the AI hype. Unfortunately, the worst is yet to come. The list is intended to document and raise awareness that GenAI makes lots of mistakes, in the hope of mitigating future disasters.
 
