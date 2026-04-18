@@ -160,7 +160,6 @@ Contributions are welcome, and pull requests are actively reviewed. Please revie
 #### 2023
 
 - [Chevrolet offers a $1 car](https://x.com/ChrisJBakke/status/1736533308849443121) – A Chevrolet dealership’s chatbot was tricked into agreeing to sell a $76,000 Tahoe for $1.
-- [United Healthcare denies healthcare coverage](https://www.theregister.com/2023/11/15/unitedhealthcare_ai_medicine/) – United Healthcare’s “nH” AI model incorrectly predicted how long patients were to receive care in nursing facilities and denied them healthcare coverage, overriding physician recommendations for post-acute care.
 - [Pak'nSave chatbot generates toxic recipes](https://www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/) – A bot belonging to the New Zealand supermarket chain Pak'nSave suggested recipes including chlorine gas and other toxic ingredients.
 - [National Eating Disorder Association](https://www.psychiatrist.com/news/neda-suspends-ai-chatbot-for-giving-harmful-eating-disorder-advice/) – The National Eating Disorder Association replaced its human staff with a chatbot, which then gave harmful advice to users with eating disorders.
 
