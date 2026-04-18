@@ -2,11 +2,13 @@
 
 There is a lot of hype surrounding generative AI, LLMs, and AI agents. Many people are unaware that generative AI is unreliable due to its nondeterministic nature. Some even have the impression that LLMs are capable of “thinking” or understanding language. Several companies and organizations are pushing for increased reliance on LLMs and AI agents in the belief that this will increase productivity and profits.
 
-This is a list of major incidents caused by reliance on generative AI, which are often buried amidst the AI hype. Unfortunately, the worst is yet to come. The list is intended to document and raise awareness that GenAI makes lots of mistakes, in the hope of mitigating future disasters.
+This is a list of major incidents caused by reliance on generative AI, which are often buried amidst the AI hype. The list is intended to document and raise awareness that GenAI makes lots of mistakes, in the hope of mitigating future disasters.
 
 The incidents are listed in chronological order, with the most recent ones at the top.
 
-Contributions are welcome, and pull requests are actively reviewed. Please review the [Contribution Guidelines](CONTRIBUTING.md) to ensure that your entries meet the criteria.
+For an incident to be included, it has to be [notable](https://en.wikipedia.org/wiki/Wikipedia:Notability). For the purposes of this list, in most cases, there should at least be one report in a well-regarded news outlet. An exception is made only for incidents that are shared by a reputable user on social media with details that can be easily fact-checked.
+
+Contributions are welcome, and pull requests are actively reviewed. Please read the [Contribution Guidelines](CONTRIBUTING.md) to ensure that your entries meet the criteria.
 
 ## Contents
 
