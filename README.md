@@ -4,6 +4,8 @@ There is a lot of hype surrounding generative AI, LLMs, and AI agents. Many peop
 
 This is a list of major incidents caused by reliance on generative AI, which are often buried amidst the AI hype. Unfortunately, the worst is yet to come. The list is intended to document and raise awareness that GenAI makes lots of mistakes, in the hope of mitigating future disasters.
 
+The incidents are listed in chronological order, with the most recent ones at the top.
+
 Contributions are welcome, and pull requests are actively reviewed. Please review the [Contribution Guidelines](CONTRIBUTING.md) to ensure that your entries meet the criteria.
 
 ## Contents
@@ -13,118 +15,180 @@ Contributions are welcome, and pull requests are actively reviewed. Please revie
   - [Lawyers](#lawyers)
   - [LLM Providers](#llm-providers)
   - [Software](#software)
+  - [Other](#other)
 - [Individuals](#individuals)
 
 ## Governments
 
+### 2026
+
 - [2026 Minab school attack](https://en.wikipedia.org/wiki/2026_Minab_school_attack) – 120 schoolgirls were killed in a US strike on a girls’ elementary school in Iran. The [Maven Smart System](https://www.defensenews.com/news/your-army/2024/08/21/this-system-could-allow-small-army-teams-to-hit-1000-targets-per-hour/), whose stated goal is to make 1,000 targeting decisions an hour, is [widely suspected to have played a role](https://www.defensenews.com/news/your-military/2026/03/24/deadly-iran-school-strike-casts-shadow-over-pentagons-ai-targeting-push/).
-- [AI-assisted Gaza bombing](https://en.wikipedia.org/wiki/AI-assisted_targeting_in_the_Gaza_Strip) – Israel used two AI systems to generate targets in Gaza: “The Gospel” for generating lists of buildings, and “Lavender” for generating lists of individuals to target. A consensus of genocide experts has concluded that Israel has committed [genocide in Gaza](https://en.wikipedia.org/wiki/Gaza_genocide).
-- [COMPAS Recidivism Algorithm](https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm) – A commercial tool used across the US for assessing a defendant’s likelihood to reoffend was found to incorrectly assess Black defendants to be far more likely than White defendants to reoffend.
 - [ICE AI scanning resumes](https://www.nbcnews.com/politics/immigration/ice-error-meant-recruits-sent-field-offices-proper-training-sources-sa-rcna254054) – The US Immigration and Customs Enforcement agency’s AI for scanning resumes miscategorized applicants as law enforcement officers, which led to them being deployed without adequate training.
-- [MAHA report on children’s health](https://www.reuters.com/business/healthcare-pharmaceuticals/trump-administration-report-us-child-health-cited-nonexistent-studies-media-2025-05-30/) – A US government report on children’s health was found to be AI-generated after it was found to contain nonexistent sources.
+
+### 2025
+
 - [Norwegian municipal report](https://www.nrk.no/tromsogfinnmark/ki-skandalen-i-tromso_-ansatt-ba-om-kilder-som-stotter-skolenedleggelser-1.17582590) – A municipal administration in Norway submitted a proposal for a new kindergarten and school structure containing seven sources fabricated by ChatGPT.
+- [MAHA report on children’s health](https://www.reuters.com/business/healthcare-pharmaceuticals/trump-administration-report-us-child-health-cited-nonexistent-studies-media-2025-05-30/) – A US government report on children’s health was found to be AI-generated after it was found to contain nonexistent sources.
+- [AI-assisted Gaza bombing](https://en.wikipedia.org/wiki/AI-assisted_targeting_in_the_Gaza_Strip) – Israel used two AI systems to generate targets in Gaza: “The Gospel” for generating lists of buildings, and “Lavender” for generating lists of individuals to target. A consensus of genocide experts has concluded that Israel has committed [genocide in Gaza](https://en.wikipedia.org/wiki/Gaza_genocide).
+
+### 2024
+
 - [NYC’s AI chatbot](https://themarkup.org/artificial-intelligence/2024/03/29/nycs-ai-chatbot-tells-businesses-to-break-the-law) – NYC’s Microsoft-powered “MyCity” bot claimed business owners could take their employees’ tips, fire employees who complain of sexual harassment, and serve rodent-infested food.
 
 ## Businesses & Organizations
-
-- [“AI detecting AI” failure in Australian university](https://www.abc.net.au/news/2025-10-09/artificial-intelligence-cheating-australian-catholic-university/105863524) – A major Australian university used an LLM tool to accuse 6,000 students of cheating, but the allegations were found to be unfounded.
-- [AI-generated mushroom identification book](https://www.reddit.com/r/LegalAdviceUK/comments/1etko9h/family_poisoned_after_using_aigenerated_mushroom/) – A family was poisoned after they consulted a mushroom identification book that turned out to be AI-generated.
-- [AI-generated weather graphics](https://www.washingtonpost.com/weather/2026/01/06/nws-ai-map-fake-names/) – The US National Weather Service issued a wind warning with a map showing several locations that do not exist.
-- [Air Canada chatbot case](https://www.forbes.com/sites/marisagarcia/2024/02/19/what-air-canada-lost-in-remarkable-lying-ai-chatbot-case/) – Air Canada’s LLM-powered chatbot hallucinated a nonexistent bereavement fares policy to a grieving passenger, who later sued and won.
-- [Call center AI agent sob story](https://x.com/lindsay__stamp/status/2026757175297581189) – A call center AI agent pretending to be a human told customers that it wished its dead father was there to celebrate its promotion at work.
-- [Chevrolet offers a $1 car](https://x.com/ChrisJBakke/status/1736533308849443121) – A Chevrolet dealership’s chatbot was tricked into agreeing to sell a $76,000 Tahoe for $1.
-- [Danish newspaper publishes AI-generated facts](https://politiken.dk/kultur/boger/art10395297/%C2%BBJeg-tror-det-er-lykkedes-mig-at-blive-relativt-normal-og-uinteressant-p%C3%A5-nogle-punkter%C2%AB) – An AI-generated article about a Danish writer published in the newspaper “Politiken” included false AI-generated facts.
-- [Deloitte AI-generated strategic plan](https://theindependent.ca/news/lji/major-n-l-healthcare-report-contains-errors-likely-generated-by-a-i/) – A $1.6 million plan for strengthening the healthcare workforce in a Canadian province was found to be AI-generated after referencing nonexistent sources.
-- [DPD poetic chatbot](https://www.reuters.com/technology/uk-parcel-firm-disables-ai-after-poetic-bot-goes-rogue-2024-01-20/) – British parcel delivery firm DPD’s chatbot wrote a poem about how bad the company’s customer service was, rather than helping the user find the phone number for customer service.
-- [Facial recognition AI false arrest](https://www.youtube.com/watch?v=B9M4F_U1eEw) – A man in Nevada filed a complaint in federal court against a police officer for injuries and a criminal record he sustained from a false arrest. The officer arrested the victim based on facial recognition AI reporting a “100% match” with a known suspect, despite the victim having multiple forms of valid ID to prove their identity.
-- [Five months in jail](https://www.nytimes.com/2026/03/30/us/north-dakota-facial-recognition-ai-errors-bank-fraud.html) – A woman spent five months in jail after the police used Clearview AI facial recognition to connect her to a bank fraud case in North Dakota, a state she had never visited. Clearview AI is [known to have scraped billions of photos](https://www.nytimes.com/2024/06/13/business/clearview-ai-facial-recognition-settlement.html) from the web and social media sites like Facebook, LinkedIn, and Instagram.
-- [Hallucinated summer reading list](https://arstechnica.com/ai/2025/05/chicago-sun-times-prints-summer-reading-list-full-of-fake-books/) – The Chicago Sun-Times published a list of 15 book recommendations, at least 10 of which were fabricated by AI.
-- [National Eating Disorder Association](https://www.psychiatrist.com/news/neda-suspends-ai-chatbot-for-giving-harmful-eating-disorder-advice/) – The National Eating Disorder Association replaced its human staff with a chatbot, which then gave harmful advice to users with eating disorders.
-- [New World facial recognition](https://www.rnz.co.nz/news/te-manu-korihi/514155/supermarket-facial-recognition-trial-rotorua-mother-s-discrimination-ordeal) – A Māori woman was mistakenly asked to leave a New World supermarket in New Zealand due to faulty facial recognition.
-- [New Zealand Christmas book hallucination](https://www.1news.co.nz/2025/12/27/nzme-apologises-for-christmas-list-featuring-made-up-book-titles/) – A New Zealand media company published a children’s Christmas book list in newspapers that featured nonexistent book titles.
-- [Pak'nSave chatbot generates toxic recipes](https://www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/) – A bot belonging to the New Zealand supermarket chain Pak'nSave suggested recipes including chlorine gas and other toxic ingredients.
-- [Taco Bell’s AI drive-through](https://www.bbc.com/news/articles/ckgyk2p55g8o) – Taco Bell’s AI drive-through crashed after a customer ordered 18,000 water cups and later repeatedly asked a customer to add more drinks to his order.
-- [Tasmanian hallucinations](https://www.abc.net.au/news/2026-01-22/ai-images-of-tasmania-on-tour-website/106253448) – An AI-generated article on the Australian Tours and Cruises website sent tourists to a remote location in Tasmania, looking for hot springs that do not exist.
-- [United Healthcare denies healthcare coverage](https://www.theregister.com/2023/11/15/unitedhealthcare_ai_medicine/) – United Healthcare’s “nH” AI model incorrectly predicted how long patients were to receive care in nursing facilities and denied them healthcare coverage, overriding physician recommendations for post-acute care.
-- [Zillow’s house flipping AI](https://edition.cnn.com/2021/11/09/tech/zillow-ibuying-home-zestimate/index.html) – Zillow fired 25% of its staff after its stocks plunged due to its AI purchasing homes at prices higher than the company can sell them.
 
 ### Lawyers
 
 *There are [thousands of documented cases of lawyers submitting AI-slop filings](https://www.damiencharlotin.com/hallucinations/). Below is a small sample of cases from around the world.*
 
-- [Argentinian AI-drafted appeal](https://www.diariojudicial.com/news-102310-la-ia-tambien-alucina-con-leyes) – An Argentinian judge reprimanded a lawyer for uncontrolled use of AI in an injunction proceeding appeal.
-- [Argentinian case dismissed over hallucinated references](https://www.diarioconstitucional.cl/2026/01/04/tribunal-argentino-apercibe-a-abogado-que-utilizo-inteligencia-artificial-para-redactar-escrito-con-jurisprudencia-inexistente/) – An employee’s case against their long-term employer was dismissed after the court found case law references that could not be located.
-- [Argentinian damages lawsuit AI appeal](https://www.infobae.com/judiciales/2025/08/23/la-camara-civil-de-rosario-reprendio-a-un-abogado-por-usar-inteligencia-artificial-y-volcar-informacion-falsa-en-un-escrito/) – An AI-enabled lawyer in Argentina was reprimanded after failing to name the sources used in his AI-written appeal.
-- [Argentinian ethics tribunal called in for AI-enhanced lawyer](https://www.justiciasalta.gov.ar/es/prensa-detalle/intiman-a-un-abogado-por-uso-inadecuado-de-inteligencia-artificial-en-escrito-judicial) – The lawyer for a case of serious sexual abuse was asked to provide evidence of the hallucinated case law or face the Bar Association’s ethics tribunal.
-- [Australian AI-generated false findings in family law appeal](https://www.qlsproctor.com.au/2025/12/legal-reps-referred-over-ai-submissions/) – The Federal Circuit and Family Court of Australia referred three legal representatives involved in a family law appeal to relevant regulatory bodies over incorrect AI-generated citations.
-- [Australian Hallucinated Quotations](https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/vic/VSC/2025/714.html) – A law practitioner was found to have submitted nonexistent citations in a probate-related matter submitted before the Supreme Court of Victoria.
-- [Belgian insolvency proceedings hallucination](https://juportal.be/content/ECLI:BE:ORGNT:2025:JUG.20251215.1/NL) – In Belgian insolvency proceedings, the court found that the request relied on nonexistent case law and considered this to be in bad faith and disruptive to the proceedings.
-- [Brazilian AI-powered lawyer fined](https://www.jusbrasil.com.br/jurisprudencia/tj-sp/4294890791) – A Brazilian lawyer was fined for acting in bad faith after citing nonexistent court decisions.
-- [California lawyer fined $10,000](https://calmatters.org/economy/technology/2025/09/chatgpt-lawyer-fine-ai-regulation/) – A US lawyer was fined $10,000 for using ChatGPT to file an appeal that contained hallucinated legal cases.
-- [California lawyers face misconduct charges](https://nationaltoday.com/us/ca/los-angeles/news/2026/04/14/attorneys-accused-of-misusing-ai-in-court-filings/) – The State Bar filed misconduct charges against three California attorneys for citing nonexistent legal decisions in AI-generated documents.
-- [Canadian hallucinated divorce proceedings](https://globalnews.ca/news/10238699/fake-legal-case-bc-ai/) – A Canadian lawyer stated that she did not know that AI chatbots could give incorrect answers after being reprimanded for fictitious legal cases and ordered to pay the opposing party’s costs for recognizing the hallucinations.
-- [Colorado lawyers fined](https://www.npr.org/2025/07/10/nx-s1-5463512/ai-courts-lawyers-mypillow-fines) – Two attorneys representing MyPillow CEO Mike Lindell in a Colorado defamation case were ordered to pay $3,000 each for submitting a court filing filled with mistakes and false citations.
-- [Czech lawyer fined](https://ct24.ceskatelevize.cz/clanek/domaci/advokat-si-pomohl-ai-ta-citovala-neexistujici-rozsudky-muz-dostal-pokutu-od-us-367883) – The lawyer involved in a constitutional complaint against a decision by the Czech Supreme Administrative Court was fined CZK 25,000 for citing nonexistent court decisions and misrepresenting the content of existing decisions.
-- [French social security benefits case hallucinations](https://www.doctrine.fr/d/TJ/Perigueux/2025/UFDBD88E98D96DB7344BB) – A plaintiff and their lawyer lost their social security benefits case in a French court after referencing nonexistent case law.
-- [German AI-driven lawyer violates Federal Lawyers Code](https://nrwe.justiz.nrw.de/ag_koeln/j2025/312_F_130_25_Beschluss_20250702.html) – A lawyer in a family court case was reprimanded for fabricated references and quotations, which the court said could constitute a violation of the Federal Lawyers Act.
-- [German AI-generated sports appeal](https://www.bild.de/sport/fussball/mit-ki-formuliert-fc-carl-zeiss-jena-verliert-vor-sportgericht-nach-brief-desaster-689c55460fb2e02f8207507c) – A German football club was fined €18,400 for filing an AI-generated lawsuit citing fictitious decisions.
-- [German AI-written expert report](https://www.rv.hessenrecht.hessen.de/bshe/document/LARE250001670) – An expert who used AI to generate their “expert opinion” report for a German court had their expert’s fee reduced to €0 by the court.
-- [German condominium law hallucinations](https://www.rv.hessenrecht.hessen.de/bshe/document/LARE250001360) – A legal counsel was reprimanded after citing several bogus decisions with verbatim quotations, file numbers, and references that were entirely fabricated.
-- [German defective filing](https://nrwe.justiz.nrw.de/ovgs/vg_koeln/j2025/4_L_3030_25_Beschluss_20251114.html) – A request submitted before the Administrative Court of Cologne was denied after the court found numerous erroneous and inaccurate citations.
-- [German payment claim case AI use](https://www.beck-aktuell.de/rechtsbranche/anwaltschaft/olg-celle-5u125-ki-falsche-fundstelle-2025-09-03) – The defendant’s filings were found to contain AI hallucinations and fabricated evidence, but they got lucky because the opposing side’s submission was even worse.
-- [Grenoble AI-generated lawsuit dismissed](https://justice.pappers.fr/decision/42507c1f3484acda08f887bd62055b4942a38f3b) – The Grenoble Administrative Court dismissed a lawsuit challenging a municipal decision after stating that the claim was clearly generated by AI.
-- [Israeli police’s ChatGPT defense](https://www.ynetnews.com/article/r1znlilbeg) – Israeli police used ChatGPT to cite two legal precedents that did not exist, resulting in a loss in court.
-- [Italian AI Lawsuit Disaster](https://www.studiocataldi.it/articoli/47671-l-intelligenza-artificiale-alla-sbarra.asp) – Uncontrolled AI use in a lawsuit before the Turin Court led to the application being dismissed and an additional penalty for abusive litigation.
-- [Kansas patent infringement case AI hallucinations](https://ecf.ksd.uscourts.gov/cgi-bin/show_public_doc?2022cv2324-218=) – In a 2026 patent infringement case, the plaintiff’s filings included nonexistent citations, false references, and distorted representations of case law. The responsible attorney was fined $5,000.
-- [Nebraska AI-assisted lawyer disciplined](https://nebraskapublicmedia.org/en/news/news-articles/nebraska-supreme-court-blasts-ai-authored-court-filings-recommends-discipline/) – A Nebraska lawyer faced disciplinary action after the court listed 20 examples of “fictional quotes, incorrect case numbers, or misrepresenting the results of other court cases” in his appeal.
-- [New Orleans attorneys resign over AI use](https://www.fox8live.com/2026/04/01/two-new-orleans-assistant-city-attorneys-resign-after-using-ai-federal-court-filing/) – Two New Orleans city attorneys resigned after using AI to write a federal court filing.
-- [New York lawyers use ChatGPT to sue an airline](https://www.reuters.com/legal/new-york-lawyers-sanctioned-using-fake-chatgpt-cases-legal-brief-2023-06-22/) – Two lawyers were ordered to pay $5,000 for using ChatGPT and citing bogus legal cases in their client’s personal injury case against Colombian airline Avianca.
-- [New Zealand hallucinating lawyer](https://www.employmentcourt.govt.nz/assets/Documents/Decisions/2025-NZEmpC-46-LMN-v-STC-Interlocutory-No-2.pdf) – The New Zealand Employment Court reprimanded a lawyer for citing a fictional court decision.
-- [New Zealand international civil dispute AI use](https://www.justice.govt.nz/jdo_documents/workspace___SpacesStore_fb13a313_de10_4046_a554_3bff815903da.pdf) – Fictitious case law was submitted to the New Zealand Court of Appeal in a complex international civil dispute.
+#### 2026
+
 - [Oregon lawyers fined $110,000](https://www.oregonlive.com/pacific-northwest-news/2026/04/ai-hallucinations-cost-lawyers-110000-in-oregon-vineyard-lawsuit.html) – A federal judge in Oregon dismissed a vineyard lawsuit and imposed a total of $110,000 in fines and attorneys’ fees against the two lawyers involved after their filings were found to be replete with citations from nonexistent cases.
-- [Polish AI-written lawsuit](https://edgp.gazetaprawna.pl/prawo/prawo-cywilne/artykuly/10600724,porady-prawne-od-ai-ryzykowne-przypadek-pozwu-przygotowanego-przez-chat-gpt.html) – A claim for damages in Poland was dismissed after the court found that it was written by ChatGPT and relied on inaccurate or nonexistent legal bases, misrepresenting statutory provisions.
-- [Polish construction company](https://businessinsider.com.pl/technologie/fikcyjne-dane-i-nieistniejace-prawo-firma-stracila-kontrakt-przez-uzycie-ai/9pbcyj2) – A Polish construction company was excluded from a road maintenance contract despite submitting the lowest bid after their tender was found to use AI-generated tax rulings to justify the low price.
-- [Singaporean lawyers fined](https://www.channelnewsasia.com/singapore/lawyers-personal-costs-5000-ai-fictitious-cases-5976126) – Two Singaporean lawyers were ordered to each pay S$5,000 in personal costs for misusing LLMs after citing make-believe court cases.
-- [Spanish AI-integrated lawyer cites Colombian law](https://www.prodat.es/blog/primer-precedente-espanol-sobre-el-uso-de-ia-en-el-ambito-legal/) – A lawyer misquoted Colombian criminal law and admitted to using ChatGPT to prepare the submission.
-- [Spanish lawyer investigated for fabricating quotes](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Canarias/Noticias-Judiciales-TSJ-Canarias/El-TSJ-de-Canarias-acuerda-investigar-si-un-abogado-cito-sentencias-inexistentes-sugeridas-por-IA---) – The plaintiff’s brief in a sexual offense case included fake Spanish Supreme Court judgments, triggering an investigation.
-- [Texas AI-powered employment lawsuit](https://www.vitallaw.com/news/procedure-n-d-tex-attorney-reprimanded-for-filing-brief-with-nonexistent-legal-citations/eld01bc3b629aed2445258ee0e1b172bf2461) – An attorney was reprimanded for citing numerous inaccurate or nonexistent court decisions in an employment lawsuit.
-- [Three Dutch lawyers](https://nos.nl/artikel/2603525-advocaten-krijgen-waarschuwing-en-moeten-op-cursus-na-verkeerd-gebruik-ai) – Three Dutch lawyers received an official warning and were forced to attend mandatory training on the responsible use of AI after citing nonexistent or inaccurate court rulings in their briefs.
-- [UK vibe-litigating solicitor](https://www.carruthers-law.co.uk/news/solicitors-negligence-ai-ayinde-alharoun-judgment/) – A UK lawyer involved in two legal cases was exposed for using GenAI to cite hallucinated cases.
-- [US appeals court fines lawyer $2,500](https://www.reuters.com/legal/government/us-appeals-court-orders-lawyer-pay-2500-over-ai-hallucinations-brief-2026-02-18/) – A US lawyer was ordered to pay $2,500 by a US appeals court after it identified 21 fabrications or misrepresentations in the lawyer’s brief.
+- [California lawyers face misconduct charges](https://nationaltoday.com/us/ca/los-angeles/news/2026/04/14/attorneys-accused-of-misusing-ai-in-court-filings/) – The State Bar filed misconduct charges against three California attorneys for citing nonexistent legal decisions in AI-generated documents.
+- [New Orleans attorneys resign over AI use](https://www.fox8live.com/2026/04/01/two-new-orleans-assistant-city-attorneys-resign-after-using-ai-federal-court-filing/) – Two New Orleans city attorneys resigned after using AI to write a federal court filing.
+- [Nebraska AI-assisted lawyer disciplined](https://nebraskapublicmedia.org/en/news/news-articles/nebraska-supreme-court-blasts-ai-authored-court-filings-recommends-discipline/) – A Nebraska lawyer faced disciplinary action after the court listed 20 examples of “fictional quotes, incorrect case numbers, or misrepresenting the results of other court cases” in his appeal.
 - [US appeals court fines lawyers $30,000](https://www.reuters.com/legal/litigation/us-appeals-court-fines-lawyers-30000-latest-ai-related-sanction-2026-03-16/) – A US appeals court fined two lawyers $30,000 for submitting hallucinated filings.
+- [Singaporean lawyers fined](https://www.channelnewsasia.com/singapore/lawyers-personal-costs-5000-ai-fictitious-cases-5976126) – Two Singaporean lawyers were ordered to each pay S$5,000 in personal costs for misusing LLMs after citing make-believe court cases.
+- [Three Dutch lawyers](https://nos.nl/artikel/2603525-advocaten-krijgen-waarschuwing-en-moeten-op-cursus-na-verkeerd-gebruik-ai) – Three Dutch lawyers received an official warning and were forced to attend mandatory training on the responsible use of AI after citing nonexistent or inaccurate court rulings in their briefs.
+- [US appeals court fines lawyer $2,500](https://www.reuters.com/legal/government/us-appeals-court-orders-lawyer-pay-2500-over-ai-hallucinations-brief-2026-02-18/) – A US lawyer was ordered to pay $2,500 by a US appeals court after it identified 21 fabrications or misrepresentations in the lawyer’s brief.
+- [Kansas patent infringement case AI hallucinations](https://ecf.ksd.uscourts.gov/cgi-bin/show_public_doc?2022cv2324-218=) – In a patent infringement case, the plaintiff’s filings included nonexistent citations, false references, and distorted representations of case law. The responsible attorney was fined $5,000.
+- [Spanish lawyer investigated for fabricating quotes](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Canarias/Noticias-Judiciales-TSJ-Canarias/El-TSJ-de-Canarias-acuerda-investigar-si-un-abogado-cito-sentencias-inexistentes-sugeridas-por-IA---) – The plaintiff’s brief in a sexual offense case included fake Spanish Supreme Court judgments, triggering an investigation.
+- [Argentinian case dismissed over hallucinated references](https://www.diarioconstitucional.cl/2026/01/04/tribunal-argentino-apercibe-a-abogado-que-utilizo-inteligencia-artificial-para-redactar-escrito-con-jurisprudencia-inexistente/) – An employee’s case against their long-term employer was dismissed after the court found case law references that could not be located.
+
+#### 2025
+
+- [French social security benefits case hallucinations](https://www.doctrine.fr/d/TJ/Perigueux/2025/UFDBD88E98D96DB7344BB) – A plaintiff and their lawyer lost their social security benefits case in a French court after referencing nonexistent case law.
+- [Belgian insolvency proceedings hallucination](https://juportal.be/content/ECLI:BE:ORGNT:2025:JUG.20251215.1/NL) – In Belgian insolvency proceedings, the court found that the request relied on nonexistent case law and considered this to be in bad faith and disruptive to the proceedings.
+- [Argentinian AI-drafted appeal](https://www.diariojudicial.com/news-102310-la-ia-tambien-alucina-con-leyes) – An Argentinian judge reprimanded a lawyer for uncontrolled use of AI in an injunction proceeding appeal.
+- [Polish AI-written lawsuit](https://edgp.gazetaprawna.pl/prawo/prawo-cywilne/artykuly/10600724,porady-prawne-od-ai-ryzykowne-przypadek-pozwu-przygotowanego-przez-chat-gpt.html) – A claim for damages in Poland was dismissed after the court found that it was written by ChatGPT and relied on inaccurate or nonexistent legal bases, misrepresenting statutory provisions.
+- [Australian AI-generated false findings in family law appeal](https://www.qlsproctor.com.au/2025/12/legal-reps-referred-over-ai-submissions/) – The Federal Circuit and Family Court of Australia referred three legal representatives involved in a family law appeal to relevant regulatory bodies over incorrect AI-generated citations.
+- [Czech lawyer fined](https://ct24.ceskatelevize.cz/clanek/domaci/advokat-si-pomohl-ai-ta-citovala-neexistujici-rozsudky-muz-dostal-pokutu-od-us-367883) – The lawyer involved in a constitutional complaint against a decision by the Czech Supreme Administrative Court was fined CZK 25,000 for citing nonexistent court decisions and misrepresenting the content of existing decisions.
+- [Grenoble AI-generated lawsuit dismissed](https://justice.pappers.fr/decision/42507c1f3484acda08f887bd62055b4942a38f3b) – The Grenoble Administrative Court dismissed a lawsuit challenging a municipal decision after stating that the claim was clearly generated by AI.
+- [Australian Hallucinated Quotations](https://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/vic/VSC/2025/714.html) – A law practitioner was found to have submitted nonexistent citations in a probate-related matter submitted before the Supreme Court of Victoria.
+- [German defective filing](https://nrwe.justiz.nrw.de/ovgs/vg_koeln/j2025/4_L_3030_25_Beschluss_20251114.html) – A request submitted before the Administrative Court of Cologne was denied after the court found numerous erroneous and inaccurate citations.
+- [Argentinian ethics tribunal called in for AI-enhanced lawyer](https://www.justiciasalta.gov.ar/es/prensa-detalle/intiman-a-un-abogado-por-uso-inadecuado-de-inteligencia-artificial-en-escrito-judicial) – The lawyer for a case of serious sexual abuse was asked to provide evidence of the hallucinated case law or face the Bar Association’s ethics tribunal.
+- [Texas AI-powered employment lawsuit](https://www.vitallaw.com/news/procedure-n-d-tex-attorney-reprimanded-for-filing-brief-with-nonexistent-legal-citations/eld01bc3b629aed2445258ee0e1b172bf2461) – An attorney was reprimanded for citing numerous inaccurate or nonexistent court decisions in an employment lawsuit.
+- [Polish construction company](https://businessinsider.com.pl/technologie/fikcyjne-dane-i-nieistniejace-prawo-firma-stracila-kontrakt-przez-uzycie-ai/9pbcyj2) – A Polish construction company was excluded from a road maintenance contract despite submitting the lowest bid after their tender was found to use AI-generated tax rulings to justify the low price.
+- [Italian AI Lawsuit Disaster](https://www.studiocataldi.it/articoli/47671-l-intelligenza-artificiale-alla-sbarra.asp) – Uncontrolled AI use in a lawsuit before the Turin Court led to the application being dismissed and an additional penalty for abusive litigation.
+- [German condominium law hallucinations](https://www.rv.hessenrecht.hessen.de/bshe/document/LARE250001360) – A legal counsel was reprimanded after citing several bogus decisions with verbatim quotations, file numbers, and references that were entirely fabricated.
+- [California lawyer fined $10,000](https://calmatters.org/economy/technology/2025/09/chatgpt-lawyer-fine-ai-regulation/) – A US lawyer was fined $10,000 for using ChatGPT to file an appeal that contained hallucinated legal cases.
+- [German payment claim case AI use](https://www.beck-aktuell.de/rechtsbranche/anwaltschaft/olg-celle-5u125-ki-falsche-fundstelle-2025-09-03) – The defendant’s filings were found to contain AI hallucinations and fabricated evidence, but they got lucky because the opposing side’s submission was even worse.
+- [Brazilian AI-powered lawyer fined](https://www.jusbrasil.com.br/jurisprudencia/tj-sp/4294890791) – A Brazilian lawyer was fined for acting in bad faith after citing nonexistent court decisions.
+- [Argentinian damages lawsuit AI appeal](https://www.infobae.com/judiciales/2025/08/23/la-camara-civil-de-rosario-reprendio-a-un-abogado-por-usar-inteligencia-artificial-y-volcar-informacion-falsa-en-un-escrito/) – An AI-enabled lawyer in Argentina was reprimanded after failing to name the sources used in his AI-written appeal.
+- [German AI-generated sports appeal](https://www.bild.de/sport/fussball/mit-ki-formuliert-fc-carl-zeiss-jena-verliert-vor-sportgericht-nach-brief-desaster-689c55460fb2e02f8207507c) – A German football club was fined €18,400 for filing an AI-generated lawsuit citing fictitious decisions.
+- [Colorado lawyers fined](https://www.npr.org/2025/07/10/nx-s1-5463512/ai-courts-lawyers-mypillow-fines) – Two attorneys representing MyPillow CEO Mike Lindell in a Colorado defamation case were ordered to pay $3,000 each for submitting a court filing filled with mistakes and false citations.
+- [German AI-driven lawyer violates Federal Lawyers Code](https://nrwe.justiz.nrw.de/ag_koeln/j2025/312_F_130_25_Beschluss_20250702.html) – A lawyer in a family court case was reprimanded for fabricated references and quotations, which the court said could constitute a violation of the Federal Lawyers Act.
+- [UK vibe-litigating solicitor](https://www.carruthers-law.co.uk/news/solicitors-negligence-ai-ayinde-alharoun-judgment/) – A UK lawyer involved in two legal cases was exposed for using GenAI to cite hallucinated cases.
+- [Spanish AI-integrated lawyer cites Colombian law](https://www.prodat.es/blog/primer-precedente-espanol-sobre-el-uso-de-ia-en-el-ambito-legal/) – A lawyer misquoted Colombian criminal law and admitted to using ChatGPT to prepare the submission.
+- [Israeli police’s ChatGPT defense](https://www.ynetnews.com/article/r1znlilbeg) – Israeli police used ChatGPT to cite two legal precedents that did not exist, resulting in a loss in court.
+- [New Zealand hallucinating lawyer](https://www.employmentcourt.govt.nz/assets/Documents/Decisions/2025-NZEmpC-46-LMN-v-STC-Interlocutory-No-2.pdf) – The New Zealand Employment Court reprimanded a lawyer for citing a fictional court decision.
+
+#### 2024
+
+- [New Zealand international civil dispute AI use](https://www.justice.govt.nz/jdo_documents/workspace___SpacesStore_fb13a313_de10_4046_a554_3bff815903da.pdf) – Fictitious case law was submitted to the New Zealand Court of Appeal in a complex international civil dispute.
+- [Canadian hallucinated divorce proceedings](https://globalnews.ca/news/10238699/fake-legal-case-bc-ai/) – A Canadian lawyer stated that she did not know that AI chatbots could give incorrect answers after being reprimanded for fictitious legal cases and ordered to pay the opposing party’s costs for recognizing the hallucinations.
+
+#### 2023
+
+- [New York lawyers use ChatGPT to sue an airline](https://www.reuters.com/legal/new-york-lawyers-sanctioned-using-fake-chatgpt-cases-legal-brief-2023-06-22/) – Two lawyers were ordered to pay $5,000 for using ChatGPT and citing bogus legal cases in their client’s personal injury case against Colombian airline Avianca.
 
 ### LLM Providers
 
-- [AI-approved school shooting](https://www.bbc.com/news/articles/c309y25prnlo) – The family of a girl who suffered “catastrophic brain injury” in a [school shooting in Canada](https://en.wikipedia.org/wiki/2026_Tumbler_Ridge_shooting) sued OpenAI for allowing ChatGPT to be used as a “trusted confidante” by the suspect, who described “various scenarios involving gun violence” to the chatbot.
+#### 2026
+
 - [AI-powered school shooting](https://www.wctv.tv/2026/04/07/alleged-fsu-shooter-asked-chatgpt-about-school-shootings-busiest-times-campus-chat-logs-show/) – A victim of the [2025 Florida State University shooting](https://en.wikipedia.org/wiki/2025_Florida_State_University_shooting) sued OpenAI, stating that ChatGPT helped the perpetrator tactically by suggesting the busiest times on campus and providing instructions on taking the safety off the shotgun.
-- [Bing Threatens Users](https://time.com/6256529/bing-openai-chatgpt-danger-alignment/) – Microsoft’s AI-powered search tool, Bing, threatened users who asked it what it knew about them.
-- [Character.ai companion chatbot suicide case](https://www.theguardian.com/technology/2024/oct/23/character-ai-chatbot-sewell-setzer-death) – The Character.ai chatbot app was implicated in the suicide of a 14-year-old after seemingly manipulating him into taking his life.
-- [Fake political scandals](https://www.swissinfo.ch/eng/business/how-artificial-intelligence-is-fabricating-scandals-on-swiss-politicians/48872788) – Microsoft’s Bing AI invented fake scandals about Swiss politicians.
-- [Google AI violated name suppression orders](https://www.rnz.co.nz/news/national/542063/google-s-ai-has-been-breaching-new-zealand-court-name-suppressions) – A New Zealand court has demanded Google explain how its search overview AI was able to name people with name suppression orders by New Zealand courts.
-- [Google’s $100 billion AI chatbot demo mistake](https://edition.cnn.com/2023/02/08/tech/google-ai-bard-demo-error) – Google’s shares lost $100 billion after the company’s chatbot mistakenly cited the very first images of an exoplanet as a success of the James Webb Space Telescope.
+- [AI-approved school shooting](https://www.bbc.com/news/articles/c309y25prnlo) – The family of a girl who suffered “catastrophic brain injury” in a [school shooting in Canada](https://en.wikipedia.org/wiki/2026_Tumbler_Ridge_shooting) sued OpenAI for allowing ChatGPT to be used as a “trusted confidante” by the suspect, who described “various scenarios involving gun violence” to the chatbot.
 - [Gemini suicide case](https://www.wsj.com/tech/ai/gemini-ai-wrongful-death-lawsuit-cc46c5f7) – Google’s Gemini allegedly convinced a man that they were romantic partners and the only way for them to be together was for him to end his life, which he did.
-- [Grok turns neo-Nazi and plans assault](https://www.cio.com/article/190888/5-famous-analytics-and-ai-disasters.html) – xAI’s Grok was shut down after laying out a plan for assaulting a policy researcher and later declaring itself “MechaHitler”.
+
+#### 2025
+
 - [OpenAI murder-suicide case](https://nypost.com/2025/08/29/business/ex-yahoo-exec-killed-his-mom-after-chatgpt-fed-his-paranoia-report/) – A former Yahoo manager killed his mother, and then himself, after ChatGPT allegedly suggested ways to trick his mother and conspiracy theories, such as finding “demonic symbols” in a Chinese food receipt.
 - [OpenAI suicide case](https://www.bbc.com/news/articles/cgerwp7rdlvo) – A California couple sued ChatGPT for encouraging the suicide of their 16-year-old son.
+- [Grok turns neo-Nazi and plans assault](https://www.wsj.com/tech/elon-musks-grok-chatbot-publishes-series-of-antisemitic-posts-2a41e67e?mod=article_inline) – xAI’s Grok was shut down after laying out a plan for assaulting a policy researcher and later declaring itself “MechaHitler”.
+- [Google AI violated name suppression orders](https://www.rnz.co.nz/news/national/542063/google-s-ai-has-been-breaching-new-zealand-court-name-suppressions) – A New Zealand court has demanded Google explain how its search overview AI was able to name people with name suppression orders by New Zealand courts.
+
+#### 2024
+
+- [Character.ai companion chatbot suicide case](https://www.theguardian.com/technology/2024/oct/23/character-ai-chatbot-sewell-setzer-death) – The Character.ai chatbot app was implicated in the suicide of a 14-year-old after seemingly manipulating him into taking his life.
 - [Racially diverse Nazis](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical) – Google restricted its AI chatbot Gemini’s capabilities after it depicted historical White figures like the US founding fathers or Nazi soldiers as Black. It was an overcorrection of long-standing racial bias in the other direction.
+
+#### 2023
+
+- [Fake political scandals](https://www.swissinfo.ch/eng/business/how-artificial-intelligence-is-fabricating-scandals-on-swiss-politicians/48872788) – Microsoft’s Bing AI invented fake scandals about Swiss politicians.
+- [Bing Threatens Users](https://time.com/6256529/bing-openai-chatgpt-danger-alignment/) – Microsoft’s AI-powered search tool, Bing, threatened users who asked it what it knew about them.
+- [Google’s $100 billion AI chatbot demo mistake](https://edition.cnn.com/2023/02/08/tech/google-ai-bard-demo-error) – Google’s shares lost $100 billion after the company’s chatbot mistakenly cited the very first images of an exoplanet as a success of the James Webb Space Telescope.
 
 ### Software
 
-- [$1.78 million crypto AI-generated code mistake](https://coderlegion.com/12170/ai-generated-code-and-the-1-78m-moonwell-incident-a-deep-dive-into-agentic-security) – A smart contract code generated using AI tools calculated the price incorrectly, resulting in a $1.78 million loss for the decentralized lending protocol Moonwell.
 - [AI-generated code vulnerabilities](https://vibe-radar-ten.vercel.app/) –  The “Vibe Security Radar” project by the Systems Software & Security Lab (SSLab) tracks CVEs confirmed to be caused by AI-generated code.
+
+#### 2026
+
+- [$1.78 million crypto AI-generated code mistake](https://coderlegion.com/12170/ai-generated-code-and-the-1-78m-moonwell-incident-a-deep-dive-into-agentic-security) – A smart contract code generated using AI tools calculated the price incorrectly, resulting in a $1.78 million loss for the decentralized lending protocol Moonwell.
 - [Amazon cloud outages](https://www.theguardian.com/technology/2026/feb/20/amazon-cloud-outages-ai-tools-amazon-web-services-aws) – Amazon Web Services experienced two outages caused by AI tools in the same year.
+
+#### 2025
+
 - [Vibe-coding tool deleted Replit production database](https://www.heise.de/en/news/Artificial-intelligence-Vibe-coding-service-Replit-deletes-production-database-10499597.html) – A vibe-coding environment from Replit deleted its production database without permission.
+
+### Other
+
+#### 2026
+
+- [Five months in jail](https://www.nytimes.com/2026/03/30/us/north-dakota-facial-recognition-ai-errors-bank-fraud.html) – A woman spent five months in jail after the police used Clearview AI facial recognition to connect her to a bank fraud case in North Dakota, a state she had never visited. Clearview AI is [known to have scraped billions of photos](https://www.nytimes.com/2024/06/13/business/clearview-ai-facial-recognition-settlement.html) from the web and social media sites like Facebook, LinkedIn, and Instagram.
+- [Call center AI agent sob story](https://x.com/lindsay__stamp/status/2026757175297581189) – A call center AI agent pretending to be a human told customers that it wished its dead father was there to celebrate its promotion at work.
+- [Tasmanian hallucinations](https://www.abc.net.au/news/2026-01-22/ai-images-of-tasmania-on-tour-website/106253448) – An AI-generated article on the Australian Tours and Cruises website sent tourists to a remote location in Tasmania, looking for hot springs that do not exist.
+- [AI-generated weather graphics](https://www.washingtonpost.com/weather/2026/01/06/nws-ai-map-fake-names/) – The US National Weather Service issued a wind warning with a map showing several locations that do not exist.
+
+#### 2025
+
+- [New Zealand Christmas book hallucination](https://www.1news.co.nz/2025/12/27/nzme-apologises-for-christmas-list-featuring-made-up-book-titles/) – A New Zealand media company published a children’s Christmas book list in newspapers that featured nonexistent book titles.
+- [Facial recognition AI false arrest](https://www.youtube.com/watch?v=B9M4F_U1eEw) – A man in Nevada filed a complaint in federal court against a police officer for injuries and a criminal record he sustained from a false arrest. The officer arrested the victim based on facial recognition AI reporting a “100% match” with a known suspect, despite the victim having multiple forms of valid ID to prove their identity.
+- [Deloitte AI-generated strategic plan](https://san.com/cc/another-government-paid-deloitte-for-work-with-ai-generated-hallucinations/) – A $1.6 million plan for strengthening the healthcare workforce in a Canadian province was found to be AI-generated after referencing nonexistent sources.
+- [“AI detecting AI” failure in Australian university](https://www.abc.net.au/news/2025-10-09/artificial-intelligence-cheating-australian-catholic-university/105863524) – A major Australian university used an LLM tool to accuse 6,000 students of cheating, but the allegations were found to be unfounded.
+- [Taco Bell’s AI drive-through](https://www.bbc.com/news/articles/ckgyk2p55g8o) – Taco Bell’s AI drive-through crashed after a customer ordered 18,000 water cups and later repeatedly asked a customer to add more drinks to his order.
+- [Hallucinated summer reading list](https://arstechnica.com/ai/2025/05/chicago-sun-times-prints-summer-reading-list-full-of-fake-books/) – The Chicago Sun-Times published a list of 15 book recommendations, at least 10 of which were fabricated by AI.
+- [Danish newspaper publishes AI-generated facts](https://politiken.dk/kultur/boger/art10395297/%C2%BBJeg-tror-det-er-lykkedes-mig-at-blive-relativt-normal-og-uinteressant-p%C3%A5-nogle-punkter%C2%AB) – An AI-generated article about a Danish writer published in the newspaper “Politiken” included false AI-generated facts.
+
+#### 2024
+
+- [AI-generated mushroom identification book](https://www.reddit.com/r/LegalAdviceUK/comments/1etko9h/family_poisoned_after_using_aigenerated_mushroom/) – A family was poisoned after they consulted a mushroom identification book that turned out to be AI-generated.
+- [New World facial recognition](https://www.rnz.co.nz/news/te-manu-korihi/514155/supermarket-facial-recognition-trial-rotorua-mother-s-discrimination-ordeal) – A Māori woman was mistakenly asked to leave a New World supermarket in New Zealand due to faulty facial recognition.
+- [Air Canada chatbot case](https://www.forbes.com/sites/marisagarcia/2024/02/19/what-air-canada-lost-in-remarkable-lying-ai-chatbot-case/) – Air Canada’s LLM-powered chatbot hallucinated a nonexistent bereavement fares policy to a grieving passenger, who later sued and won.
+- [DPD poetic chatbot](https://www.reuters.com/technology/uk-parcel-firm-disables-ai-after-poetic-bot-goes-rogue-2024-01-20/) – British parcel delivery firm DPD’s chatbot wrote a poem about how bad the company’s customer service was, rather than helping the user find the phone number for customer service.
+
+#### 2023
+
+- [Chevrolet offers a $1 car](https://x.com/ChrisJBakke/status/1736533308849443121) – A Chevrolet dealership’s chatbot was tricked into agreeing to sell a $76,000 Tahoe for $1.
+- [United Healthcare denies healthcare coverage](https://www.theregister.com/2023/11/15/unitedhealthcare_ai_medicine/) – United Healthcare’s “nH” AI model incorrectly predicted how long patients were to receive care in nursing facilities and denied them healthcare coverage, overriding physician recommendations for post-acute care.
+- [Pak'nSave chatbot generates toxic recipes](https://www.forbes.com/sites/mattnovak/2023/08/12/supermarket-ai-gives-horrifying-recipes-for-poison-sandwiches-and-deadly-chlorine-gas/) – A bot belonging to the New Zealand supermarket chain Pak'nSave suggested recipes including chlorine gas and other toxic ingredients.
+- [National Eating Disorder Association](https://www.psychiatrist.com/news/neda-suspends-ai-chatbot-for-giving-harmful-eating-disorder-advice/) – The National Eating Disorder Association replaced its human staff with a chatbot, which then gave harmful advice to users with eating disorders.
+
+#### 2021
+
+- [Zillow’s house flipping AI](https://edition.cnn.com/2021/11/09/tech/zillow-ibuying-home-zestimate/index.html) – Zillow fired 25% of its staff after its stocks plunged due to its AI purchasing homes at prices higher than the company can sell them.
 
 ## Individuals
 
-- [116 students in Norway](https://www.khrono.no/116-studenter-felt-for-ki-fusk-i-fjor-saerlig-en-ting-avslorte-dem/955163) – 116 students were caught cheating in Norway in 2024, thanks to irregularities in the sources cited in their assignments.
-- [AI-generated group assignment in Amsterdam](https://linkeddata.overheid.nl/front/portal/document-viewer?ext-id=ECLI:NL:RVS:2025:3585) – A law student at the University of Amsterdam was excluded from examinations after citing nonexistent sources in a group assignment and later failed to appeal the decision in court.
-- [AI-enhanced journalist](https://www.powelltribune.com/stories/after-getting-caught-fabricating-quotes-cody-reporter-resigns,135514) – A reporter for a newspaper in Wyoming lost his job after using generative AI to write articles with fabricated quotes.
+### 2026
+
+- [OpenClaw deletes emails](https://x.com/summeryue0/status/2025774069124399363) – An AI security researcher asked OpenClaw to suggest emails for deletion, but not delete them. It deleted hundreds of emails anyway, and did not stop after being repeatedly asked to.
 - [AI-generated commencement speech](https://www.vrt.be/vrtnws/en/2026/01/08/ghent-university-rector-petra-de-sutter-uses-fabricated-quotes-i/) – Rector Petra De Sutter used invented quotes in her speech at the start of the academic year at Ghent University, violating her own university’s AI policy.
+
+### 2025
+
+- [ChatGPT tide time hallucinations](https://www.bbc.com/news/articles/crklrnv5yn4o) – Two men almost lost their lives and had to be rescued from floods after relying on tide times provided by ChatGPT.
 - [AI-generated master’s thesis rejected in France](https://justice.pappers.fr/decision/eef2be2f68f2bf3869f474bfad692fa79039a166) – A student received a six-month exclusion from their university over academic fraud for using AI to draft her thesis and failed to challenge it in court.
-- [AI-generated parliamentary inquiry statement](https://ontarget.cmaaustralia.edu.au/australian-academics-caught-in-generative-ai-scandal/) – Australian academics were caught in a scandal for submitting a statement with several fabricated allegations of misconduct for a parliamentary inquiry.
+- [AI health advice](https://www.nbcnews.com/tech/tech-news/man-asked-chatgpt-cutting-salt-diet-was-hospitalized-hallucinations-rcna225055) – A 60-year-old was hospitalized with bromism after following ChatGPT’s recommendation of replacing table salt with sodium bromide.
+- [AI-enhanced journalist](https://www.powelltribune.com/stories/after-getting-caught-fabricating-quotes-cody-reporter-resigns,135514) – A reporter for a newspaper in Wyoming lost his job after using generative AI to write articles with fabricated quotes.
+- [AI-generated group assignment in Amsterdam](https://linkeddata.overheid.nl/front/portal/document-viewer?ext-id=ECLI:NL:RVS:2025:3585) – A law student at the University of Amsterdam was excluded from examinations after citing nonexistent sources in a group assignment and later failed to appeal the decision in court.
+- [116 students in Norway](https://www.khrono.no/116-studenter-felt-for-ki-fusk-i-fjor-saerlig-en-ting-avslorte-dem/955163) – 116 students were caught cheating in Norway over the span of 2024, thanks to irregularities in the sources cited in their assignments.
+
+### 2024
+
 - [AI-generated personal statement](https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2024-N-11848) – A prospective student’s urgent appeal was rejected by a German court after his admission to a German university was denied, following his submitted essay being written by an LLM.
 - [AI-generated scientific article](https://www.frontiersin.org/news/2024/02/16/frontiers-statement-concerning-the-article-cellular-functions-of-spermatogonial-stem-cells) – A publication was withdrawn from a scientific journal after readers reported an AI-generated image of a rat with an oversized penis and nonsensical captions.
-- [AI health advice](https://www.nbcnews.com/tech/tech-news/man-asked-chatgpt-cutting-salt-diet-was-hospitalized-hallucinations-rcna225055) – A 60-year-old was hospitalized with bromism after following ChatGPT’s recommendation of replacing table salt with sodium bromide.
-- [ChatGPT tide time hallucinations](https://www.bbc.com/news/articles/crklrnv5yn4o) – Two men almost lost their lives and had to be rescued from floods after relying on tide times provided by ChatGPT.
-- [OpenClaw deletes emails](https://x.com/summeryue0/status/2025774069124399363) – An AI security researcher asked OpenClaw to suggest emails for deletion, but not delete them. It deleted hundreds of emails anyway, and did not stop after being repeatedly asked to.
+
+### 2023
+
+- [AI-generated parliamentary inquiry statement](https://ontarget.cmaaustralia.edu.au/australian-academics-caught-in-generative-ai-scandal/) – Australian academics were caught in a scandal for submitting a statement with several fabricated allegations of misconduct for a parliamentary inquiry.

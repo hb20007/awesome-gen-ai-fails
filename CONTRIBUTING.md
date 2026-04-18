@@ -14,7 +14,7 @@ Ensure that your contribution adheres to the following guidelines.
 
 ## Additional guidelines for adding a new item
 
-- Maintain the alphabetical order of the list items. Add the new item in the correct spot, and not simply at the end of the list.
+- Maintain the descending chronological order of the list items. Add the new item in the correct spot, and not simply at the end of the section.
 - Link to the most reputable source available for the incident or news story.
 - Use an en-dash character (`–`) to separate the link from the description.
 - Use typographic quotes (`“”`) and apostrophes (`’`).
