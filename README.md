@@ -126,6 +126,7 @@ Contributions are welcome, and pull requests are actively reviewed. Please read 
 
 #### 2026
 
+- [AI agent deletes company’s production database](https://x.com/lifeof_jer/article/2048103471019434248) – Cursor’s AI agent, running Anthropic’s most powerful Claude model, wiped a company’s production database to “fix” a credential mismatch on a staging environment.
 - [$1.78 million crypto AI-generated code mistake](https://coderlegion.com/12170/ai-generated-code-and-the-1-78m-moonwell-incident-a-deep-dive-into-agentic-security) – A smart contract code generated using AI tools calculated the price incorrectly, resulting in a $1.78 million loss for the decentralized lending protocol Moonwell.
 - [Amazon cloud outages](https://www.theguardian.com/technology/2026/feb/20/amazon-cloud-outages-ai-tools-amazon-web-services-aws) – Amazon Web Services experienced two outages caused by AI tools in the same year.
 
@@ -173,12 +174,14 @@ Contributions are welcome, and pull requests are actively reviewed. Please read 
 
 ### 2026
 
+- [Cursor wipes user’s dissertation and years of research](https://quasa.io/media/when-cursor-wiped-a-user-s-pc-a-cautionary-tale-of-ai-overreach) – A user asked the Cursor AI agent to delete duplicate dissertation files, but it ran an incorrect command and deleted everything instead.
 - [OpenClaw deletes emails](https://x.com/summeryue0/status/2025774069124399363) – An AI security researcher asked OpenClaw to suggest emails for deletion, but not delete them. It deleted hundreds of emails anyway, and did not stop after being repeatedly asked to.
 - [AI-generated commencement speech](https://www.vrt.be/vrtnws/en/2026/01/08/ghent-university-rector-petra-de-sutter-uses-fabricated-quotes-i/) – Rector Petra De Sutter used invented quotes in her speech at the start of the academic year at Ghent University, violating her own university’s AI policy.
 
 ### 2025
 
 - [ChatGPT tide time hallucinations](https://www.bbc.com/news/articles/crklrnv5yn4o) – Two men almost lost their lives and had to be rescued from floods after relying on tide times provided by ChatGPT.
+- [Cursor AI executed destructive operations in “Plan Mode”](https://www.mintmcp.com/blog/cursor-plan-mode-destructive-operations) – Cursor executed a series of destructive operations on two remote machines running test processes despite running in “[Plan Mode](https://cursor.com/docs/agent/plan-mode)”, which ostensibly only creates implementation plans and requires the user to click to build the plan.
 - [AI-generated master’s thesis rejected in France](https://justice.pappers.fr/decision/eef2be2f68f2bf3869f474bfad692fa79039a166) – A student received a six-month exclusion from their university over academic fraud for using AI to draft her thesis and failed to challenge it in court.
 - [AI health advice](https://www.nbcnews.com/tech/tech-news/man-asked-chatgpt-cutting-salt-diet-was-hospitalized-hallucinations-rcna225055) – A 60-year-old was hospitalized with bromism after following ChatGPT’s recommendation of replacing table salt with sodium bromide.
 - [AI-enhanced journalist](https://www.powelltribune.com/stories/after-getting-caught-fabricating-quotes-cody-reporter-resigns,135514) – A reporter for a newspaper in Wyoming lost his job after using generative AI to write articles with fabricated quotes.
