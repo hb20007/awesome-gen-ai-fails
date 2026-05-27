@@ -1,4 +1,4 @@
-# Awesome GenAI Fails [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome GenAI Fails
 
 There is a lot of hype surrounding generative AI, LLMs, and AI agents. Many people are unaware that generative AI is unreliable due to its nondeterministic nature. Some even have the impression that LLMs are capable of “thinking” or understanding language. Several companies and organizations are pushing for increased reliance on LLMs and AI agents in the belief that this will increase productivity and profits.
 
