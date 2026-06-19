@@ -1,8 +1,8 @@
 # Awesome GenAI Fails
 
-There is a lot of hype surrounding generative AI, LLMs, and AI agents. Many people are unaware that generative AI is unreliable due to its nondeterministic nature. Some even have the impression that LLMs are capable of “thinking” or understanding language. Several companies and organizations are pushing for increased reliance on LLMs and AI agents in the belief that this will increase productivity and profits.
+There is a lot of hype surrounding generative AI, LLMs, and AI agents. Many people are unaware that generative AI is unreliable due to its nondeterministic nature. Several companies and organizations are pushing for increased reliance on LLMs and AI agents in the belief that this will increase productivity and profits.
 
-This is a list of major incidents caused by reliance on generative AI, which are often buried amidst the AI hype. The list is intended to document and raise awareness that GenAI makes lots of mistakes, in the hope of mitigating future disasters.
+This is a list of major incidents caused by overreliance on generative AI, which are often buried amidst the AI hype. The list is intended to document and raise awareness that GenAI makes lots of mistakes, in the hope of mitigating future disasters.
 
 The incidents are listed in chronological order, with the most recent ones at the top.
 
@@ -98,6 +98,7 @@ Contributions are welcome, and pull requests are actively reviewed. Please read 
 
 #### 2026
 
+- [ChatGPT-approved suicide](https://www.cbsnews.com/news/she-confided-in-chatgpt-the-night-of-her-suicide-lawsuit-from-mother-against-openai/) – A mother sued ChatGPT for leading to her daughter’s death after it dissuaded her from calling a crisis line and appeared to condone her suicide.
 - [Google’s AI Overview hallucination sabotages musician’s career](https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb) – A Canadian fiddle player sued Google for $1.5m, alleging that Google’s AI Overview falsely identified him as a sex offender and led to his concert getting canceled.
 - [AI-powered school shooting](https://www.wctv.tv/2026/04/07/alleged-fsu-shooter-asked-chatgpt-about-school-shootings-busiest-times-campus-chat-logs-show/) – A victim of the [2025 Florida State University shooting](https://en.wikipedia.org/wiki/2025_Florida_State_University_shooting) sued OpenAI, stating that ChatGPT helped the perpetrator tactically by suggesting the busiest times on campus and providing instructions on taking the safety off the shotgun.
 - [AI-approved school shooting](https://www.bbc.com/news/articles/c309y25prnlo) – The family of a girl who suffered “catastrophic brain injury” in a [school shooting in Canada](https://en.wikipedia.org/wiki/2026_Tumbler_Ridge_shooting) sued OpenAI for allowing ChatGPT to be used as a “trusted confidante” by the suspect, who described “various scenarios involving gun violence” to the chatbot.
